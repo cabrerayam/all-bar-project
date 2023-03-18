@@ -1,2 +1,2 @@
-# Proyecto Desarrollo Web - Coder
+# Desarrollo de e-commerce para venta de chocolates
 
